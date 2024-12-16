@@ -1,0 +1,10 @@
+{
+    "name": "lena_prado/1.7_testing_nivell1",
+    "description": "Un proyecto en PHP",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "scripts": {
+    "test": "vendor/bin/phpunit"
+}
+}
